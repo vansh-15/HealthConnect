@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#2C3E50</color>
+    <color name="primary_light">#34495E</color>
+    <color name="primary_dark">#1A2530</color>
+    <color name="accent">#3498DB</color>
+    <color name="accent_light">#5DADE2</color>
+    <color name="accent_dark">#2980B9</color>
+
+    <!-- Modern Color Palette -->
+    <color name="colorPrimary">#2C3E50</color>
+    <color name="colorPrimaryDark">#1A2530</color>
+    <color name="colorAccent">#3498DB</color>
+
+    <!-- Missing colors referenced in night theme -->
+    <color name="colorSecondary">#3498DB</color>
+    <color name="colorSecondaryDark">#2980B9</color>
+    <color name="gray">#757575</color>
+
+    <!-- Gradients -->
+    <color name="gradient_start">#2C3E50</color>
+    <color name="gradient_center">#34495E</color>
+    <color name="gradient_end">#3498DB</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#2C3E50</color>
+    <color name="text_secondary">#7F8C8D</color>
+    <color name="text_hint">#BDC3C7</color>
+
+    <!-- UI elements -->
+    <color name="divider">#ECF0F1</color>
+    <color name="background">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="ripple">#80ECF0F1</color>
+
+    <!-- Status colors -->
+    <color name="success">#27AE60</color>
+    <color name="warning">#F39C12</color>
+    <color name="error">#E74C3C</color>
+    <color name="info">#3498DB</color>
+
+    <!-- Rating colors -->
+    <color name="star_active">#F39C12</color>
+    <color name="star_inactive">#BDC3C7</color>
+
+    <!-- Legacy colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_color">#2C3E50</color>
+    <color name="accent_color">#3498DB</color>
+    <color name="primary_text">#2C3E50</color>
+    <color name="secondary_text">#7F8C8D</color>
+    <color name="hint_text">#BDC3C7</color>
+    <color name="background_color">#F8F9FA</color>
+    <color name="transparent">#00000000</color>
+    <color name="error_red">#E74C3C</color>
+    <color name="success_green">#27AE60</color>
+    <color name="warning_yellow">#F39C12</color>
+    <color name="divider_color">#ECF0F1</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_outline">#2C3E50</color>
+    <color name="secondary">#3498DB</color>
+    <color name="status_text">#27AE60</color>
+    <color name="accept_button">#27AE60</color>
+    <color name="reject_button">#E74C3C</color>
+    <color name="complete_button">#3498DB</color>
+
+    <!-- Bottom Navigation colors -->
+    <color name="bottom_nav_item_color">@color/text_secondary</color>
+    <color name="bottom_nav_item_selected_color">@color/colorPrimary</color>
+    <color name="bottom_nav_ripple_color">@color/ripple</color>
+
+    <!-- Math Colors -->
+    <color name="math_primary">#FF5733</color>
+    <color name="math_secondary">#FFBD33</color>
+    <color name="math_accent">#FF33A6</color>
+
+    <!-- Science Colors -->
+    <color name="science_primary">#33FF57</color>
+    <color name="science_secondary">#33FFBD</color>
+    <color name="science_accent">#33A6FF</color>
+
+    <!-- History Colors -->
+    <color name="history_primary">#5733FF</color>
+    <color name="history_secondary">#BD33FF</color>
+    <color name="history_accent">#A633FF</color>
+
+</resources>
