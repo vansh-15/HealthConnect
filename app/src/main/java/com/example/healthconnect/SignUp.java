@@ -73,13 +73,6 @@ public class SignUp extends AppCompatActivity {
             Toast.makeText(this, "Passwords do not match", Toast.LENGTH_SHORT).show();
         }
         else{
-            PhoneAuthOptions options = PhoneAuthOptions.newBuilder(FirebaseAuth.getInstance())
-                    .setPhoneNumber("+91" + phone)
-                    .setTimeout(60L, TimeUnit.SECONDS)
-                    .setActivity(this)
-                    .setCallbacks(callbacks)
-                    .build();
-            PhoneAuthProvider.verifyPhoneNumber(options);
         }
     }
 }
